@@ -1,0 +1,133 @@
+<mockup version="1.0" skin="sketch" measuredW="1227" measuredH="586" mockupW="1197" mockupH="523">
+  <controls>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Arrow" x="1043" y="176" w="150" h="35" measuredW="150" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <rightArrow>false</rightArrow>
+        <text>HELP%20%28very%20important%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="__group__" x="30" y="163" w="1007" h="328" measuredW="1007" measuredH="328" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="696" h="328" measuredW="696" measuredH="328" zOrder="0" locked="false" isInGroup="33">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FormattingToolbar" x="0" y="0" w="696" h="-1" measuredW="270" measuredH="29" zOrder="0" locked="false" isInGroup="0"/>
+            <control controlID="1" controlTypeID="__group__" x="0" y="29" w="696" h="299" measuredW="696" measuredH="299" zOrder="1" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="680" h="299" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <text>The%20unifying%20aspect%20of%20physical%20laws%20and%20the%20basic%20simplicity%20of%20nature%20form%20the%20underlying%20themes%20of%20this%20text.%20In%20learning%20to%20apply%20these%20laws%2C%20you%20will%2C%20of%20course%2C%20study%20the%20most%20important%20topics%20in%20physics.%20More%20importantly%2C%20you%20will%20gain%20analytical%20abilities%20that%20will%20enable%20you%20to%20apply%20these%20laws%20far%20beyond%20the%20scope%20of%20what%20can%20be%20included%20in%20a%20single%20book.%20These%20analytical%20skills%20will%20help%20you%20to%20excel%20academically%2C%20and%20they%20will%20also%20help%20you%20to%20think%20critically%20in%20any%20professional%20career%20you%20choose%20to%20pursue.%20This%20module%20discusses%20the%20realm%20of%20physics%20%28to%20define%20what%20physics%20is%29%2C%20some%20applications%20of%20physics%20%28to%20illustrate%20its%20relevance%20to%20other%20disciplines%29%2C%20and%20more%20precisely%20what%20constitutes%20a%20physical%20law%20%28to%20illuminate%20the%20importance%20of%20experimentation%20to%20theory%29.%0A%20%0AScience%20and%20the%20Realm%20of%20Physics%0A%20%0AScience%20consists%20of%20the%20theories%20and%20laws%20that%20are%20the%20general%20truths%20of%20nature%20as%20well%20as%20the%20body%20of%20knowledge%20they%20encompass.%20Scientists%20are%20continually%20trying%20to%20expand%20this%20body%20of%20knowledge%20and%20to%20perfect%20the%20expression%20of%20the%20laws%20that%20describe%20it.%20Physics%20is%20concerned%20with%20describing%20the%20interactions%20of%20energy%2C%20matter%2C%20space%2C%20and%20time%2C%20and%20it%20is%20especially%20interested%20in%20what%20fundamental%20mechanisms%20underlie%20every%20phenomenon.%20The%20concern%20for%20describing%20the%20basic%20phenomena%20in%20nature%20essentially%20defines%20the%20realm%20of%20physics.</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="680" y="2" w="-1" h="294" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="1"/>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="711" y="0" w="296" h="328" measuredW="296" measuredH="328" zOrder="1" locked="false" isInGroup="33">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="280" y="31" w="-1" h="294" measuredW="16" measuredH="100" zOrder="0" locked="false" isInGroup="1"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Accordion" x="0" y="29" w="280" h="299" measuredW="473" measuredH="429" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <selectedIndex>3</selectedIndex>
+                <text>Preface%0A1.%20Introduction%3A%20The%20Nature%20of%20Science%20and%20Physics%0A-%20Introduction%20to%20Science%20and%20the%20Realm%20of%20Physics%2C%20Physical%20Quantities%2C%20and%20Units%0A-%20Physics%3A%20An%20Introduction%0A-%20Physical%20Quantities%20and%20Units%0A-%20Accuracy%2C%20Precision%2C%20and%20Significant%20Figures%0A-%20Approximation%0A2.%20Kinematics%0A3.%20Two-Dimensional%20Kinematics</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="296" h="29" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="1"/>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="12" y="4" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Contents</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::HelpButton" x="273" y="7" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="4" locked="false" isInGroup="1"/>
+            <control controlID="5" controlTypeID="__group__" x="251" y="4" w="22" h="20" measuredW="22" measuredH="20" zOrder="5" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="22" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="7" w="17" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="5"/>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="9" w="17" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="false" isInGroup="5"/>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="12" w="17" h="-1" measuredW="100" measuredH="5" zOrder="3" locked="false" isInGroup="5"/>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="6" controlTypeID="__group__" x="243" y="107" w="22" h="20" measuredW="22" measuredH="20" zOrder="6" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="22" h="20" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="6"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="7" w="17" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="6"/>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="9" w="17" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="false" isInGroup="6"/>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="12" w="17" h="-1" measuredW="100" measuredH="5" zOrder="3" locked="false" isInGroup="6"/>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Arrow" x="143" y="63" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <direction>bottom</direction>
+        <rightArrow>false</rightArrow>
+        <text>Action%20icons%20for%20dealing%20for%20text%2C%20links%2C%20resources%2C%20etc.</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Arrow" x="756" y="63" w="36" h="100" measuredW="150" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <direction>bottom</direction>
+        <rightArrow>false</rightArrow>
+        <text>Contents%20listing%20for%20navigating%20the%20book/collection</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Arrow" x="1001" y="109" w="150" h="54" measuredW="150" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <direction>bottom</direction>
+        <rightArrow>false</rightArrow>
+        <text>Contents%20tree%20action%20icon</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::HCurly" x="30" y="506" w="694" h="80" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>Text%20Editor</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::HCurly" x="739" y="506" w="289" h="80" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>Collection%20Tree%20/%20Table%20of%20Contents</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Arrow" x="1009" y="280" w="218" h="35" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <rightArrow>false</rightArrow>
+        <text>Selected%20module%20actions%20icon</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Arrow" x="1001" y="449" w="199" h="35" measuredW="150" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <rightArrow>false</rightArrow>
+        <text>Click%20to%20%20expand%20this%20item.</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Arrow" x="1068" y="484" w="147" h="35" measuredW="150" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <rightArrow>false</rightArrow>
+        <text>Click%20again%20to%20select</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::VCurly" x="287" y="83" w="217" h="86" measuredW="180" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>The%20more%20detailed%20actions%2C%20like%20embedding%20applets/video%20in%20a%20page%2C%20will%20be%20handled%20with%20lightboxes%20and%20degrade%20to%20opening%20new%20windows.</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::VCurly" x="1043" y="315" w="180" h="86" measuredW="180" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>The%20editor%20will%20show%20the%20selected%20item.%20Initially%2C%20the%20content%20author%20will%20need%20to%20select%20the%20item%20to%20change%20the%20editing%20focus.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
