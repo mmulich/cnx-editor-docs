@@ -74,6 +74,28 @@ action icon link can be made house all the important details for
 editing the collection itself (accredidation, sharing, licensing,
 etc.).
 
+More annotation...
+------------------
+
+And a few more comments on this image...
+
+.. image:: _static/cnx-editor-more-annotation.png
+
+The action icons on the text editor will have actions for the tabs
+that are currently in the cnx.org editor (e.g. links and metadata). As
+the image says, these more advanced actions will out a lightbox
+dialog to interact with the controls. This also means that the actions
+will degrade if javascript has been disabled.
+
+The actions in the :term:`collection tree` are fairly simple. This is
+intended to help keep the content author focused on the content rather
+than the organization of the content. When the user needs more
+information, the action to do so is only a click away. 
+
+Double clicking on the content element in the collection tree will
+prepare the item in the :term:`text editor`. If the items that is
+currently being edited has not been saved, the content author will be
+prompted to save before moving forward.
 
 
 Indices and tables
