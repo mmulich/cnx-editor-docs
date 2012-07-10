@@ -30,14 +30,14 @@ Common terms
       what you get)` features. This text box allows the user to modify
       the content of a module.
 
-   Collection contents
+   Collection tree
       The items in a :term:`collection` list.
 
    Table of contents
       A displayable version of the :term:`collection` list.
 
    Book tree
-      This is the same as :term:`collection contents`.
+      This is the same as :term:`collection tree`.
 
 A single unifying text editor
 -----------------------------
@@ -46,6 +46,34 @@ The following image is a wireframe based on our design discussion on July
 10th, 2012.
 
 .. image:: _static/cnx-editor.png
+
+
+Now with annotation...
+----------------------
+
+The annotations in this image display the various elements that may
+not be clear at first sight.
+
+.. image:: _static/cnx-editor-annotated.png
+
+The two basic widgets to the editor are the :term:`text editor`
+itself and the :term:`collection tree`. The text editor is a fairly
+standard component that could be any normal text editor or one that we
+design ourselves. The actions icons at the top of the editor control
+basic text editing functionality as well as the more advanced editing
+features. 
+
+The :term:`collection tree` is used to navigate the entire book. This
+widget will also control the reorganization of the collection via
+drag and drop options. If javascript is disabled this widget can be
+made to degrade with simple links to actions. For example, adding a
+module to the contents can be handled by lightbox dialogs that can be
+reused in a standalone page scenario. The collections metadata can be
+viewed and modified via the collection tree's action icon button. This
+action icon link can be made house all the important details for
+editing the collection itself (accredidation, sharing, licensing,
+etc.).
+
 
 
 Indices and tables
